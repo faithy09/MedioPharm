@@ -39,6 +39,10 @@ Operational Measures:
 # TECH STACK TOOLS- SQL SERVER, POWERBI
 
 # DATA
+The data for MedioPharm Medical Centre shows the overall admissions (4,013) of patient and 1008 cases of emergency. A total number of doctors (9014) and (3000) number of patients. Analysis shows the four (4) department (Pulmonology, Cardiology, Internal Medicine, Emergency) that the patients also visited. 
+The Pulmonology department had the highest number of doctors that consult with patients.The medical centre had more male (51%) being treated as emergency cases than female which had (49%).
+The total number of patient who recovered is 2,802, 626 patient in ICU, 372 patients were readmitted and 213 deceased cases.
+
 
 # RECOMMENDATION
 Mediopharm should adopt an integrated hospital performance framework combining:
